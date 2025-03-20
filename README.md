@@ -1,6 +1,6 @@
-<h1>Greetings, I'm Jordan, an <a href="https://www.linkedin.com/in/jordan-moore-59a580306/">IT Professional👋🏼<//h1>
+<h1>Greetings, I'm Jordan, an <a href="https://www.linkedin.com/in/jordan-moore-59a580306/">IT Professional 👋🏼
 
-<h2>🧑🏽‍💻 Information Technology Projects:</h2>
+<h2> Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/JordanIsaiah03/osticket-prereqs)
