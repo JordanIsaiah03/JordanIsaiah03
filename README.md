@@ -9,7 +9,9 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JordanIsaiah03/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JordanIsaiah03/azure-network-protocols)
-
+-<b>VPN (Virtual Private Network)
+  - [VPN Set Up VPN in Virtual Machine](https://github.com/JordanIsaiah03/setting-up-vpn)
+        
 <h2> 📲 Connect with me:</h2>
 
 [<img align="left" alt="Jordan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
